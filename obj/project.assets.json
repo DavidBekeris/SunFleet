@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Skola projekt\\Sunfleet\\Sunfleet.csproj",
+      "projectUniqueName": "C:\\Workspace\\School\\SunFleet\\Sunfleet.csproj",
       "projectName": "Sunfleet",
-      "projectPath": "C:\\Workspace\\Skola projekt\\Sunfleet\\Sunfleet.csproj",
+      "projectPath": "C:\\Workspace\\School\\SunFleet\\Sunfleet.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Skola projekt\\Sunfleet\\obj\\",
+      "outputPath": "C:\\Workspace\\School\\SunFleet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",

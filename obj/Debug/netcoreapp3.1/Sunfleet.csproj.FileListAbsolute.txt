@@ -11,3 +11,16 @@ C:\Workspace\Skola projekt\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.csproj.Core
 C:\Workspace\Skola projekt\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.dll
 C:\Workspace\Skola projekt\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.pdb
 C:\Workspace\Skola projekt\Sunfleet\obj\Debug\netcoreapp3.1\Sunfleet.genruntimeconfig.cache
+C:\Workspace\School\SunFleet\bin\Debug\netcoreapp3.1\Sunfleet.exe
+C:\Workspace\School\SunFleet\bin\Debug\netcoreapp3.1\Sunfleet.deps.json
+C:\Workspace\School\SunFleet\bin\Debug\netcoreapp3.1\Sunfleet.runtimeconfig.json
+C:\Workspace\School\SunFleet\bin\Debug\netcoreapp3.1\Sunfleet.runtimeconfig.dev.json
+C:\Workspace\School\SunFleet\bin\Debug\netcoreapp3.1\Sunfleet.dll
+C:\Workspace\School\SunFleet\bin\Debug\netcoreapp3.1\Sunfleet.pdb
+C:\Workspace\School\SunFleet\obj\Debug\netcoreapp3.1\Sunfleet.csprojAssemblyReference.cache
+C:\Workspace\School\SunFleet\obj\Debug\netcoreapp3.1\Sunfleet.AssemblyInfoInputs.cache
+C:\Workspace\School\SunFleet\obj\Debug\netcoreapp3.1\Sunfleet.AssemblyInfo.cs
+C:\Workspace\School\SunFleet\obj\Debug\netcoreapp3.1\Sunfleet.csproj.CoreCompileInputs.cache
+C:\Workspace\School\SunFleet\obj\Debug\netcoreapp3.1\Sunfleet.dll
+C:\Workspace\School\SunFleet\obj\Debug\netcoreapp3.1\Sunfleet.pdb
+C:\Workspace\School\SunFleet\obj\Debug\netcoreapp3.1\Sunfleet.genruntimeconfig.cache
